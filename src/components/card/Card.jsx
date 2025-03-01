@@ -8,10 +8,7 @@ export default function Card({surati, saxeli, gvari}) {
       <img src={surati} alt="" />
       <h1>{saxeli} {gvari}</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, error
-        officiis quas voluptatum tenetur nisi ducimus quasi voluptatem dolorum
-        animi. Rerum dolorem animi, repellat perspiciatis laborum modi
-        consequuntur? Perspiciatis, expedita.
+        idk raghaca
       </p>
       <button>Click me</button>
     </div>
