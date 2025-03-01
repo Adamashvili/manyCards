@@ -21,7 +21,7 @@ function App() {
       </div>
       <Footer/>
 
-      <h1>es dawera maxma:))))))))))))))</h1>
+      <h1>es yvelaferi gaaketa maqsmaa</h1>
     </>
   );
 }
